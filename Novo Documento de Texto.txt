@@ -4,4 +4,5 @@ maça
 maracuja
 uva
 
+pitaya
 abacaxi
