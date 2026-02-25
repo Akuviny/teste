@@ -5,3 +5,4 @@ maracuja
 uva
 
 pitaya
+abacaxi
